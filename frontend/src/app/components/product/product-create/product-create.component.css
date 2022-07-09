@@ -1,0 +1,17 @@
+button {
+  margin: 0.25rem 0.25rem 0.25rem 0;
+  transition: filter .2s ease-in-out
+}
+
+button:hover{
+  filter: brightness(0.95);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.title{
+  margin-bottom: 1.5rem;
+}

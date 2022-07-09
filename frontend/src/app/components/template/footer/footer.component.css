@@ -1,0 +1,21 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.footer .sponsor {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 400;
+  font-size: 1rem;
+}
+
+.footer .sponsor a {
+  color: #1a1a1a;
+  text-decoration: none;
+  font-weight: bold;
+}

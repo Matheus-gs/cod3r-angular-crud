@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MacBook Pro 16",
+      "price": 2499.9
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13 Pro Max",
+      "price": 1099.9
+    },
+    {
+      "id": 3,
+      "name": "AirPods 3rd gen",
+      "price": 179.9
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch Series 7",
+      "price": 399.9
+    },
+    {
+      "id": 5,
+      "name": "Mac Pro",
+      "price": 28900.9
+    },
+    {
+      "id": 6,
+      "name": "Iphone 11",
+      "price": 3899.9
+    },
+    {
+      "id": 7,
+      "name": "Macbook Air",
+      "price": 12900.9
+    },
+    {
+      "id": 8,
+      "name": "Mac Mini M2 - 2022",
+      "price": 7899.99
+    },
+    {
+      "id": 9,
+      "name": "Ipad Pro 12 - M1",
+      "price": 6899.9
+    },
+    {
+      "id": 10,
+      "name": "Macbook Air - M1",
+      "price": 8899.9
+    },
+    {
+      "id": 11,
+      "name": "Macbook Pro 13 - M2",
+      "price": 9890.99
+    },
+    {
+      "name": "Imac 27 5k",
+      "price": "14299.90",
+      "id": 12
+    },
+    {
+      "name": "Apple Watch Series 7 - 45mm",
+      "price": "3599.90",
+      "id": 13
+    },
+    {
+      "name": "AirPods Pro",
+      "price": "1499.90",
+      "id": 14
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Matheus Gomes",
+      "age": 20,
+      "mail": "mgomes494@gmail.com",
+      "role": "Desenvolvedor Front-End Angular Júnior",
+      "bornDate": "2002-06-20"
+    },
+    {
+      "id": 2,
+      "name": "Johnny Fagundes Frota",
+      "age": 32,
+      "mail": "johnnyfagundes@gmail.com",
+      "role": "Software Engineer",
+      "bornDate": "1989-06-24"
+    },
+    {
+      "name": "Davi Santos",
+      "age": "7",
+      "mail": "dsantos@gmail.com",
+      "role": "Pipeiro Profissional",
+      "id": 4,
+      "bornDate": "2015-01-08"
+    },
+    {
+      "name": "Edite Rosa Neto",
+      "age": "46",
+      "mail": "edrosa@bancorbras.com.br",
+      "role": "Assessora Financeira",
+      "id": 6,
+      "bornDate": "1976-06-25"
+    }
+  ]
+}

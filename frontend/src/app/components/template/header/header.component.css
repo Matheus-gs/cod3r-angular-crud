@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.header .logo {
+  max-height: 2rem;
+}
